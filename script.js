@@ -60,7 +60,7 @@ function signUp(e){
         });
         close.addEventListener('click', () =>{
             myModal.classList.remove('show');
-	    window.location.assign("https://nobore.netlify.app");
+	    window.location.assign("https://nobore-winx-fairies.netlify.app/");
 
         });
 
